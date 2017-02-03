@@ -3,5 +3,8 @@ module.exports = {
     "plugins": [
         "standard",
         "promise"
-    ]
+    ],
+    "rules": {
+        "new-cap": "off"
+    }
 };
